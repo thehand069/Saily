@@ -31,7 +31,7 @@ If you are using RootHide or NathanLR, you may need to modify the jbroot and ado
 
 For support related to Saily, open up an issue. Before reporting an issue, check if it has already been reported to avoid duplicates.
 
-[<img src="Resources/bugsnag.png" alt="" width="100"/>](https://www.bugsnag.com)
+[<imc src="Resources/bugsnag.png" alt="" width="100"/>](https://www.bugsnag.com)
 
 We use [Bugsnag](https://www.bugsnag.com/) for bug and crash tracking. [Privacy Licenses](https://docs.bugsnag.com/platforms/ios/appstore-privacy/) ensure that diagnostic data is anonymous and cannot trace back to you.
 
